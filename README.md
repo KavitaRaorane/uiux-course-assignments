@@ -13,5 +13,5 @@ The demand for UI/UX designers is growing rapidly. In 2025 and beyond, most busi
 I aim to work in a dynamic tech company or design agency in South Korea, where I can contribute to meaningful digital experiences and grow as a designer.
 
 ## 😎 Assignments
-- [Assignment 1 - Web design Market] (./assignment-1)
+- [Assignment 1 - Web design Market] (./assignment-1/README.md)
 - 
